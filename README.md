@@ -33,7 +33,7 @@ construção de páginas HTML e uso do CSS.
 ##
 
 
-![Captura de tela 2023-10-09 095815](https://github.com/Estefanilira/mundo-2-missao-pratica-1/assets/126111557/405982d1-e43b-4f91-8a66-a9f5cd4d359b)
+![Captura de tela 2023-10-09 112128](https://github.com/Estefanilira/mundo-2-missao-pratica-1/assets/126111557/9f34f9cb-7b83-4cd2-9b38-f8967801b03a)
 
 ![Captura de tela 2023-10-09 095907](https://github.com/Estefanilira/mundo-2-missao-pratica-1/assets/126111557/e62b9335-1d34-491d-aed8-6eea26802c2b)
 
