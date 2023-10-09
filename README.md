@@ -4,10 +4,10 @@
 
 ##
 
-Aluno: Estefani K. Wanderley de Lira
-Matricula: 2023-0154-4221
-Curso: Desenvolvimento Full Stack
-Turma: 23.1
+* Aluno: Estefani K. Wanderley de Lira
+* Matricula: 2023-0154-4221
+* Curso: Desenvolvimento Full Stack
+* Turma: 23.1
 
 ##
 
