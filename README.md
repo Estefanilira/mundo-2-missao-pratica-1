@@ -15,7 +15,7 @@ Missão Prática | Mundo 2 | Nível 1
 
 Html + Css + Bootstrap 5
 
-site: https://mundo-2-missao-pratica-1-fw7vzpwwt-estefaniliras-projects.vercel.app/
+site: https://mundo-2-missao-pratica-1.vercel.app/
 
 ## Objetivos da prática
 
